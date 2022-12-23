@@ -7,7 +7,7 @@ We were tasked to wrangle data, perform exploratory analysis, data analysis, viu
 
 Here is some of the resuting slides:
 
-https://github.com/jilag01/Resume-Projects/blob/main/Slide2JPG
+![image]https://github.com/jilag01/Resume-Projects/blob/main/Slide2JPG
 https://github.com/jilag01/Resume-Projects/blob/main/Slide3.JPG
 https://github.com/jilag01/Resume-Projects/blob/main/Slide4.JPG
 https://github.com/jilag01/Resume-Projects/blob/main/Slide5.JPG
