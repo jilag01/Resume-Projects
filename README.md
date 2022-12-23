@@ -3,7 +3,7 @@
 Texas Department of Transportation Crash Data 2013
 focuses on providing insight on this raw data.
 
-We were tasked to wrangle data, perform exploratory analysis, data analysis, viualize data, report our findings, and create a presentation.
+We were tasked to wrangle data, perform exploratory analysis, execute data analysis, visualize data, report our findings, and create a presentation.
 
 Here are some of the resuting slides:
 ![image](https://user-images.githubusercontent.com/98626091/209404067-3144021e-6e28-48ad-b01d-994c34d4c37f.png)
