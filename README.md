@@ -14,3 +14,6 @@ https://github.com/jilag01/Resume-Projects/blob/main/Slide5.JPG
 https://github.com/jilag01/Resume-Projects/blob/main/Slide6.JPG
 
 https://raw.githubusercontent.com/jilag01/Resume-Projects/main/Slide6.JPG
+
+
+![image](https://user-images.githubusercontent.com/98626091/209404067-3144021e-6e28-48ad-b01d-994c34d4c37f.png)
