@@ -1,10 +1,8 @@
 # Resume-Projects
 
-Texas Department of Transportation Crash Data 2013
-focuses on providing insight on this raw data.
-
+### Texas Department of Transportation Crash Data 2013
+...focuses on providing insight on this raw data.
 We were tasked to wrangle data, perform exploratory analysis, execute data analysis, visualize data, report our findings, and create a presentation.
-
 Here are some of the resuting slides:
 ![image](https://user-images.githubusercontent.com/98626091/209404067-3144021e-6e28-48ad-b01d-994c34d4c37f.png)
 ![image](https://user-images.githubusercontent.com/98626091/209404128-5e20f804-1f56-4b11-b39f-1b375d7d5c60.png)
